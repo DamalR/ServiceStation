@@ -1,0 +1,10 @@
+.custom-row-height {
+    height: 50px; /* Adjust this value as needed */
+}
+.custom-cell-padding {
+    padding-top: 15px;
+    padding-bottom: 15px; /* Adjust this value as needed */
+}
+.caption-top{
+    margin-top: 50px;
+}
