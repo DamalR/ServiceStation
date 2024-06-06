@@ -1,13 +1,11 @@
 .content{
-    width: 75%;
+    width: 75%;  
+    margin-top: 50px;
 }
 .content-header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-.header-title{
-    color: green;
 }
 .header-activity{
     display: flex;
