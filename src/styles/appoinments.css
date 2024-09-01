@@ -1,10 +1,30 @@
 .custom-row-height {
-    height: 50px; /* Adjust this value as needed */
+    height: 50px;
 }
+
 .custom-cell-padding {
     padding-top: 15px;
-    padding-bottom: 15px; /* Adjust this value as needed */
+    padding-bottom: 15px;
 }
-.caption-top{
+
+.caption-top {
     margin-top: 50px;
+}
+
+.table {
+    margin-top: 5px;
+    text-align: center;
+    border-spacing: 10px 0;
+}
+
+th,
+td {
+    padding: 10px 20px;
+    text-align: center;
+    width: 150px;
+}
+
+.btn-sm {
+    width: 53px;
+    margin-right: 3px;
 }
